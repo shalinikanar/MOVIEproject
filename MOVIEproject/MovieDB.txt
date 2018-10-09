@@ -1,0 +1,3 @@
+Psycho;Anthony Perkins;Horror;Alfred Hitchcock
+Night of the Hunter;Robert Mitchum;Thriller;Charles Laughton
+Eye's without a Face;Pierre Brasseur;Horror;Georges Franju

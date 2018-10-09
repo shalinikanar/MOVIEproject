@@ -1,0 +1,85 @@
+Psycho,Anthony Perkins,Horror,Alfred Hitchcock
+Night of the Hunter,Robert Mitchum,Thriller,Charles Laughton
+
+3.
+-MovieName = "Eye's without a Face"
+-MainActor = Pierre Brasseur
+-Genre = Horror
+-Director =Georges Franju
+
+4.
+-MovieName = "the Canterville Ghost"
+-MainActor = Charles Laughton
+-Genre = Family Film
+-Director = Sydney Macartney
+
+5.
+-MovieName = "Arsenic and Old Lace"
+-MainActor = Cary Grant
+-Genre = Dark Comedy
+-Director = Frank Capra
+
+6.
+-MovieName = "Abbott and Costello Meet Frankenstein"
+-MainActor = Abbott
+-Genre = Horror Comedy
+-Director = Charles Barton
+
+7.
+-MovieName = "The Seventh Victim"
+-MainActor = Jean Brooks
+-Genre = Horror
+-Director = Mark robson
+
+8.
+-MovieName = "Night of the Demon"
+-MainActor = Dana Andrews
+-Genre = Horror
+-Director = Jacques tourneur
+
+9.
+-MovieName = "the Head that Wouldn't Die"
+-MainActor = Jason Evers
+-Genre = Science Fiction Horror
+-Director = Joseph Green
+
+10.
+-MovieName = Village of the Damned
+-MainActor = Christopher Reeve
+-Genre = Science Fiction Horror
+-Director = John Carpenter
+
+11.
+-MovieName = Rear Window
+-MainActor = Jimmy Stewart
+-Genre = Mystery Thriller
+-Director = Alfred Hitchcock
+
+12.
+-MovieName = Young Frankenstein
+-MainActor = Gene Wilder
+-Genre = Horror Comedy
+-Director = Mel Brooks
+
+13.
+-MovieName = Nosferatu
+-MainActor = Max Schreck
+-Genre = Horror
+-Director = F.W. Murnau
+
+14.
+-MovieName = Strangers on a Train
+-MainActor = Farley Granger
+-Genre = Psychological Thriller
+-Director = Alfred Hitchcock
+
+15.
+-MovieName = The Man Who Wasn't There
+-MainActor = Billy Bob Thornton
+-Genre = Neo-noir Crime
+-Director = Joel Coen
+
+Training
+Blog
+About
+Press h to open a hovercard with more details.
