@@ -8,18 +8,18 @@ namespace MOVIEproject
 {
    public class Movie
     {
-        private string Name;
+        private string name;
         private string mainActor;
-        private string Genre;
-        private string Director;
+        private string genre;
+        private string director;
 
-        public Movie(string Name, string mainActor, string Genre, string Director)
+        public Movie(string name, string mainActor, string genre, string director)
 
         {
-            this.Name = Name;
+            this.name = name;
             this.mainActor = mainActor;
-            this.Genre = Genre;
-            this.Director = Director;
+            this.genre = genre;
+            this.director = director;
         }
     }
 }
